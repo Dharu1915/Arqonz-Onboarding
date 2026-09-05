@@ -1,0 +1,6 @@
+{
+  "name": "Arqonz.com Onboarding Showcase",
+  "description": "High-fidelity UI/UX onboarding animation showcase for Arqonz.com featuring 8-step dynamic form flows, interactive 3D glassmorphism graphics, spring transitions, and celebration animations in #003D40 theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
